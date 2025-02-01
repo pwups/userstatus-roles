@@ -66,4 +66,4 @@ client.on("guildMemberUpdate", async (oldMember, newMember) => {
 /**
  * @description Logs the bot in via the token specified in the .env file
  */
-client.login("TOKEN HERE");
+client.login("MTMyNDk3Nzc5MjI2MTI5MjA3Mg.GKv9Cn.kvQpv1z6ATdMkKLD7f-b3Jbp9niM-8q4XFnWvM");
